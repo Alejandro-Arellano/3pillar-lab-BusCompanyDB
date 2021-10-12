@@ -55,7 +55,11 @@ INSERT INTO Bus VALUES
 ('MN-58-59-DF', 35, 'Large', 3, 4),
 ('QW-RE-12-34', 15, 'Small', 5, 11),
 ('WQ-ER-721-43', 20, 'Medium', 4, 8),
-('VZ-11-ZA-5D', 20, 'Medium', 4, 1);
+('VZ-11-ZA-5D', 20, 'Medium', 4, 1),
+('AS-78-DQ-AZ', 15, 'Small', 1, 7),
+('QP-09-01-ZZ', 25, 'Large', 3, 7),
+('FG-71-Z2-QA', 15, 'Small', 4, 8),
+('LZ-MM-LT-OT', 10, 'Small', 1, 4);
 
 INSERT INTO Garage VALUES
 ('Violet Garage', 15, 1),
@@ -81,7 +85,10 @@ INSERT INTO Driver VALUES
 ('Alessia', 'Via Rialto #1590', 3652451489, 5),
 ('Dante', 'Stabilimento #590', 1021547896, 7),
 ('Virgilio', 'Basso #54-D', 1784572320, 8),
-('Bianca', 'Carrozzeria #1057', 1784568978, 11);
+('Bianca', 'Carrozzeria #1057', 1784568978, 11),
+('Fiorella', 'Basso #521', 1547895623, 2),
+('Carlo', 'La Mercerie #50-D', 6959565956, 4),
+('Alonzo', 'Stabilimento #12-B', 1201235684, 3);
 
 INSERT INTO RouteLog VALUES
 (30,'07-01-2021', 1),
